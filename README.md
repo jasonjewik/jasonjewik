@@ -8,4 +8,4 @@ Some quick things about me...
 - 📚 I enjoy reading books on tech-related topics like data privacy, labor and tech, and beneficial AI
 - ⛏ My personal favorite editor is VS Code, but I'll also use Emacs sometimes
 
-Thanks for reading! You can read more about me on my [website](https://jasonjewik.com).
+If you would like to contact me, please check out my [personal website](https://jasonjewik.com). Thanks! (●'◡'●)
