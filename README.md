@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I'm so glad you've decided to stop by.
 
-Some quick things about me...
-- 🤖 I'm learning about machine learning
-- 💻 I like to work on projects involving frontend/backend stuff
-- 📚 I enjoy reading books on tech-related topics like data privacy, labor and tech, and beneficial AI
+Me in four bullet points:
+- 🤖 I am a student of machine learning, especially interested in CV and RL right now
+- 🌱 I am thinking about ways we can use tech to fight climate change
 - ⛏ My personal favorite editor is VS Code, but I'll also use Emacs sometimes
+- 📚 I enjoy reading non-fiction books (see my website for my recent reads!)
 
-If you would like to contact me, please send an email to [jason.jewik@gmail.com](mailto:jason.jewik@gmail.com). Thanks! (●'◡'●)
+If you would like to contact me, please send an email to jason DOT jewik AT gmail. Thanks! (●'◡'●)
