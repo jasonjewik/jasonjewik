@@ -6,4 +6,4 @@ Welcome to my GitHub profile! Me in four bullet points:
 - 🔨 My editor of choice is VS Code, but I'll also use emacs and I'm trying to master vim
 - 📚 I enjoy reading non-fiction books (see my website for my recent reads!)
 
-If you would like to contact me, please send an email to jason DOT jewik AT gmail. I can be found on most platforms with the username "jasonjewik".
+If you would like to contact me, please send an email to jason DOT jewik AT gmail.
