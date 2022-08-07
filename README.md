@@ -6,3 +6,5 @@ Me in four bullet points:
 - 📚 I enjoy reading non-fiction books, playing video games, and hiking
 
 If you would like to contact me, please send an email to `jason DOT jewik AT gmail`.
+
+Last updated: August 7, 2022
