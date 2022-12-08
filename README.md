@@ -1,10 +1,10 @@
 ## Hello there! 👋
-Me in four bullet points:
-- 🤖 My main interest is machine learning, but I also like software engineering, embedded systems, etc.
-- 🌱 I am thinking about ways we can use tech to help mitigate and adapt to climate change
-- 🔨 My editor of choice is VS Code, but I also use emacs and I am trying to master vim
-- 📚 I enjoy reading non-fiction books, playing video games, and hiking
+Me in three bullet points:
+- 🌱 I am building software for [AI x Climate Change research](https://github.com/aditya-grover/climate-learn).
+- ⚛️ My favorite course of grad school so far is Quantum Programming.
+- 📝 VS Code is my editor of choice, but I also use emacs and vim.
+- 📚 My top-3 recent hobbies are reading, baking, and playing video games.
 
 If you would like to contact me, please send an email to `jason DOT jewik AT gmail`.
 
-Last updated: August 7, 2022
+Last updated: December 8, 2022
