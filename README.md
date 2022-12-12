@@ -1,5 +1,5 @@
 ## Hello there! 👋
-Me in three bullet points:
+Me in four bullet points:
 - 🌱 I am building software for [AI x Climate Change research](https://github.com/aditya-grover/climate-learn).
 - ⚛️ My favorite course of grad school so far is Quantum Programming.
 - 📝 VS Code is my editor of choice, but I also use emacs and vim.
@@ -7,4 +7,4 @@ Me in three bullet points:
 
 If you would like to contact me, please send an email to `jason DOT jewik AT gmail`.
 
-Last updated: December 8, 2022
+Last updated: December 12, 2022
