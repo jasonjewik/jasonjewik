@@ -1,6 +1,6 @@
 ## Hello there! 👋
 Me in a few bullet points:
-- 💼 I work on AI agents at [Box](https://box.com).
+- 💼 I work as an AI engineer at [Writer](https://github.com/JasonAtWriter).
 - 💻 During graduate school, I built [ClimateLearn](https://github.com/aditya-grover/climate-learn) and [PhenoCamSnow](https://pypi.org/project/phenocam-snow/).
 - ✈️ My most recent vacation was to Spain and Portugal. I saw the [Alhambra](https://civilization.fandom.com/wiki/Alhambra_(Civ6)) and the [Torre de Belém](https://civilization.fandom.com/wiki/Torre_de_Bel%C3%A9m_(Civ6)); and I enjoyed a wonderful fado show plus dinner at [Estaca Zero in Lisbon](https://maps.app.goo.gl/17jwppRGTtByAddU6) (they're a small, family-owned restaurant: highly recommend!)
 - 🏃‍♂️ I ran the 2025 San Francisco Marathon in July. It was my first race!
